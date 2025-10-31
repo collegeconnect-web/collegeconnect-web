@@ -40,6 +40,12 @@ To create a unified ecosystem that connects **students, mentors, and opportuniti
 
 ---
 
+## 🎥 Screenshots / Demo
+
+![College_Connect](https://github.com/user-attachments/assets/68b90a76-9b8c-4a2a-a440-b92b632feb4b)
+
+---
+
 ## 🛠️ Tech Overview
 
 **Frontend (Private)**  
